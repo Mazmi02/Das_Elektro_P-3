@@ -1151,7 +1151,6 @@
   { "en": "Apa Satuan Admitansi (Admittance)?", "id": "Siemens (S)." },
   { "en": "Apa Itu Konduktansi (Conductance) (G)?", "id": "Bagian Riil Dari Admitansi." },
   { "en": "Apa Itu Suseptansi (Susceptance) (B)?", "id": "Bagian Imajiner Dari Admitansi." },
-  { "en": "Apa Rumus Admitansi (Admittance) (Y) Kompleks?", "id": "Y = G + jB." },
   { "en": "Apa Itu Daya Rata-Rata (Average Power) AC?", "id": "Daya Nyata Diserap Rangkaian (P)." },
   { "en": "Apa Rumus Daya Rata-Rata (Average Power) (P)?", "id": "P = Vrms * Irms * Cos(θ)." },
   { "en": "Apa Itu Daya Reaktif (Reactive Power) (Q)?", "id": "Daya Bolak-Balik Komponen Reaktif." },
@@ -1165,8 +1164,6 @@
   { "en": "Apa Itu Faktor Daya (Power Factor) (PF)?", "id": "Rasio Daya Nyata, Daya Semu." },
   { "en": "Apa Rumus Faktor Daya (Power Factor) (PF)?", "id": "PF = P / S = Cos(θ)." },
   { "en": "Apa Itu Sudut Faktor Daya (Power Factor Angle) (θ)?", "id": "Sudut Antara Tegangan Dan Arus." },
-  { "en": "Apa Itu Faktor Daya (Power Factor) Leading?", "id": "Arus Mendahului Tegangan (Kapasitif)." },
-  { "en": "Apa Itu Faktor Daya (Power Factor) Lagging?", "id": "Arus Tertinggal Tegangan (Induktif)." },
   { "en": "Apa Nilai Ideal Faktor Daya (Power Factor)?", "id": "Satu (1)." },
   { "en": "Apa Itu Koreksi Faktor Daya (Power Factor Correction)?", "id": "Memperbaiki Faktor Daya Mendekati Satu." },
   { "en": "Komponen Apa Digunakan Koreksi Beban Induktif?", "id": "Kapasitor Paralel." },
@@ -1927,7 +1924,6 @@
   { "en": "Apa Itu Komputasi Paralel (Parallel Computing)?", "id": "Menjalankan Banyak Komputasi Bersamaan." },
   { "en": "Apa Itu Komputasi Terdistribusi (Distributed Computing)?", "id": "Komputasi Menggunakan Banyak Komputer Jaringan." },
   { "en": "Apa Itu Komputasi Grid (Grid Computing)?", "id": "Komputasi Terdistribusi Skala Besar." },
-  { "en": "Apa Itu Komputasi Awan (Cloud Computing)?", "id": "Layanan Komputasi Lewat Internet." },
   { "en": "Apa Itu Mekanika Kuantum (Quantum Mechanics)?", "id": "Fisika Mengatur Skala Atom, Subatom." },
   { "en": "Apa Itu Prinsip Ketidakpastian Heisenberg?", "id": "Tidak Bisa Ukur Posisi, Momentum Akurat Bersamaan." },
   { "en": "Apa Itu Fungsi Gelombang (Wave Function)?", "id": "Deskripsi Matematis Keadaan Kuantum." },
@@ -2090,7 +2086,6 @@
   { "en": "Contoh Gelombang Transversal (Transverse Wave)?", "id": "Gelombang Cahaya, Gelombang Tali." },
   { "en": "Apa Itu Gelombang Longitudinal (Longitudinal Wave)?", "id": "Getaran Sejajar Arah Rambat." },
   { "en": "Contoh Gelombang Longitudinal (Longitudinal Wave)?", "id": "Gelombang Suara." }
-
 
 
 
